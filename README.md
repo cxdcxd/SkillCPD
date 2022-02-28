@@ -1,4 +1,4 @@
-## Welcome to SkillCPD benchmarking simulator
+## Welcome to SkillCPD Benchmarking Simulator
 
 ![Alt text](sample2.png?raw=true "Title")
 
