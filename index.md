@@ -1,3 +1,5 @@
-## Welcome to SkillCPD Benchmarking
+## SkillCPD Benchmarking
 
-More information will come soon.
+Welcome!
+
+more information will come soon.
