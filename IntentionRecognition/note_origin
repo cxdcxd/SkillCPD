@@ -1,0 +1,7 @@
+# In x-y coordinate
+position: -0.143 0.0670786 0.859739
+quaternion: 0.712987 -0.00766462 0.0106087 0.701056
+
+Start communication from haptic device to ground station:
+roslaunch robot_groundstation gs_wifi.launch 
+

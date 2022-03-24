@@ -1,0 +1,7 @@
+src/core/scripts/consul
+build/
+devel/
+third_party/
+src/core/cfg/
+.catkin_workspace
+.vscode
