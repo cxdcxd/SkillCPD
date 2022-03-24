@@ -13,4 +13,4 @@ Python CPD: https://github.com/siavashk/pycpd
 Phantom Omni Unity Driver: https://github.com/joobei/Touchy
 PDB Lib (Calinon): https://gitlab.idiap.ch/rli/pbdlib-python
 ```
-More information will come soon.
+More information will come soon (Repo is under deployment process).
